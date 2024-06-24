@@ -36,7 +36,7 @@ git clone https://github.com/dostmuhammaddoshi/wg-rest-api-1.5.4.git
 ```
 
 ```bash
-cd wg-rest-api
+cd wg-rest-api-1.5.4
 ```
 
 ```bash
